@@ -8,7 +8,7 @@
 
 | 운영체제 | 받을 파일 |
 |---|---|
-| macOS (Apple Silicon) | `LinkGroupz-<버전>.dmg` |
+| macOS 13 이상, **Apple Silicon(M1 이후) Mac 전용** (Intel Mac 에서는 실행되지 않습니다) | `LinkGroupz-<버전>.dmg` |
 | Windows 10 · 11 (64비트) | `LinkGroupz-<버전>-setup.exe` |
 
 `…app.tar.gz` 와 `latest.json` 은 앱이 스스로 업데이트할 때 쓰는 파일이라 직접 받을 필요가 없습니다.
